@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Engenharia de Software.
+Estudante de Engenharia de Software.<br> 🎗️ Perfil Estudante
 
 
 ## 🌐 Socials:
